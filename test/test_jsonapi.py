@@ -1,5 +1,7 @@
 import json
-from src import *
+import sys
+sys.path.append("..")
+from src.jsonpai import *
 
 ## This is the test file for testing jsonapi
 
